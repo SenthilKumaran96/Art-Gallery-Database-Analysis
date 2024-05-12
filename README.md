@@ -1,1 +1,1 @@
-# Famous-Paintings-Case-Study
+I conducted an in-depth analysis of an art gallery database using SQL to uncover valuable insights about paintings, museums, artists, and more. By addressing various questions and challenges posed by the dataset, I gained actionable insights that can inform strategic decision-making and optimize operations within the art industry.
